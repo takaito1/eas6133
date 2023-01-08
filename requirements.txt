@@ -6,4 +6,3 @@ xlrd
 gsw
 netCDF4
 xarray
-PyCO2SYS
