@@ -7,4 +7,3 @@ gsw
 netCDF4
 xarray
 openpyxl
-sklearn
